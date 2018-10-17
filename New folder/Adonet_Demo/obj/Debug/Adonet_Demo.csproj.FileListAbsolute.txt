@@ -1,0 +1,7 @@
+D:\C#pro\Ado.net_demo\Adonet_Demo\bin\Debug\Adonet_Demo.exe.config
+D:\C#pro\Ado.net_demo\Adonet_Demo\bin\Debug\Adonet_Demo.exe
+D:\C#pro\Ado.net_demo\Adonet_Demo\bin\Debug\Adonet_Demo.pdb
+D:\C#pro\Ado.net_demo\Adonet_Demo\obj\Debug\Adonet_Demo.csprojAssemblyReference.cache
+D:\C#pro\Ado.net_demo\Adonet_Demo\obj\Debug\Adonet_Demo.csproj.CoreCompileInputs.cache
+D:\C#pro\Ado.net_demo\Adonet_Demo\obj\Debug\Adonet_Demo.exe
+D:\C#pro\Ado.net_demo\Adonet_Demo\obj\Debug\Adonet_Demo.pdb
